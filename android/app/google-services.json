@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "989297629766",
+    "firebase_url": "https://traders-hub-5c8f2.firebaseio.com",
+    "project_id": "traders-hub-5c8f2",
+    "storage_bucket": "traders-hub-5c8f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989297629766:android:9e768fa9173db43e7f0847",
+        "android_client_info": {
+          "package_name": "com.traders.coppytrading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989297629766-afifslr4il82f8g9c621p6uvek3rm828.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.traders.coppytrading",
+            "certificate_hash": "e5a367d5123b673add613888eb9a1d106855c669"
+          }
+        },
+        {
+          "client_id": "989297629766-0913vact9471o8c2692bmkhb6hd9f5pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAowG6H3OzeQ7gzCWf8CodqJ9AEARj62II"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989297629766-0913vact9471o8c2692bmkhb6hd9f5pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
